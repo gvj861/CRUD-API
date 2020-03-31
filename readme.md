@@ -1,9 +1,9 @@
 Technologies Involved :
 
- MongoDB
- NodeJS
- ExpressJS
- Mongoose
+ MongoDB,
+ NodeJS,
+ ExpressJS,
+ Mongoose,
  EJS [ Templating Engine ]
 
 
